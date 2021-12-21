@@ -31,3 +31,26 @@
     width: 400px;
     border: 1px solid #000000;
 }
+
+@media screen and (max-width: 480px) {
+    .produtos-titulo {
+        font-size: 1.5rem;
+    }
+
+    .produtos-primeiraLista {
+        flex-direction: column;
+    }
+
+    .produtos-segundaLista {
+        flex-direction: column;
+    }
+
+    .produtos-imagem {
+        height: 250px;
+        width: 100%;
+    }
+
+    .produtos-imagem:hover {
+        transform: perspective(1.2);
+    }
+}

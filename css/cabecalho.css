@@ -1,6 +1,7 @@
 .cabecalho {
     padding: 1rem 1rem 0.5rem;
     background: rgb(25, 3, 107);
+    display: flex;
 }
 
 .cabecalho-lista {
@@ -16,4 +17,10 @@
     font-size: 1rem;
     font-weight: bold;
     color: #ffffff;
+}
+
+@media screen and (max-width: 480px) {
+    .cabecalho-lista{
+        flex-direction: column;
+    }
 }
