@@ -11,3 +11,10 @@
 .orcamento-descricao {
     line-height: 1.5;
 }
+
+@media screen and (max-width: 480px) {
+    .orcamento {
+        padding: 0 5%;
+        padding-bottom: 1rem;
+    }
+}
