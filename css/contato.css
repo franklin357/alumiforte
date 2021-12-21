@@ -1,0 +1,17 @@
+.contato {
+    background: linear-gradient(#ffffff, gray);
+    text-align: center;
+    padding: 2rem 0;
+}
+
+.contato-titulo {
+    color: darkblue;
+}
+
+.contato-subtitulo {
+    color: darkblue;
+}
+
+.contato-descricao {
+    padding-bottom: 1rem;
+}

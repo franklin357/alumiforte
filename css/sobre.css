@@ -1,0 +1,20 @@
+.sobre {
+    background: #cfcfcf;
+    text-align: center;
+}
+
+.sobre-titulo {
+    font-weight: bold;
+    padding: 1.5rem 0;
+    color: darkblue;
+}
+
+.sobre-descricao {
+    line-height: 1.5;
+}
+
+.sobre-video {
+    padding: 3rem 0;
+    height: 400px;
+    width: 400px;
+}

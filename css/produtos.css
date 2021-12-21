@@ -1,0 +1,33 @@
+.produtos-titulo {
+    padding: 2rem 0 ;
+    text-align: center;
+    font-weight: bold;
+    color: darkblue;
+}
+
+.produtos-lista {
+    width: 100%;
+    padding: 0 10%;
+}
+
+.produtos-primeiraLista {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.produtos-segundaLista {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.produtos-item {
+    padding: 1.4rem 0;
+}
+
+.produtos-imagem {
+    height: 400px;
+    width: 400px;
+    border: 1px solid #000000;
+}

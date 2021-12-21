@@ -1,0 +1,13 @@
+.orcamento {
+    text-align: center;
+}
+
+.orcamento-titulo {
+    font-weight: bold;
+    color: darkblue;
+    padding: 1.5rem;
+}
+
+.orcamento-descricao {
+    line-height: 1.5;
+}
